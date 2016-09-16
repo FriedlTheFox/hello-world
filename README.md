@@ -12,7 +12,7 @@ I have a [Rainbowduino](http://www.seeedstudio.com/wiki/Rainbowduino_v3.0) board
 Feel free to help me. I hope I have enough time to reach the main goal.
 
 Cheers,
-Friedl
+Friedl 
 
 > Ideas are always welcome! :smile:
 
